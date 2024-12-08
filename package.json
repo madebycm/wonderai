@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "fuse.js": "^7.0.0",
+    "inquirer": "^9.3.7",
+    "inquirer-autocomplete-prompt": "^3.0.1"
+  }
+}
