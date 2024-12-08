@@ -1,4 +1,4 @@
-# wpr
+# wpr (WonderPrompt)
 
 `wpr` is a command-line tool designed to help you quickly gather files from your project, bundle them together with a prompt you provide, and produce a nicely formatted Markdown file containing both the prompt and the selected files' contents.
 
